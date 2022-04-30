@@ -6,5 +6,5 @@ Version 11.0.10
 ------
 ## Apache NetBeans IDE 
 Version 12.0
-### [Klik Download](https://drive.google.com/file/d/1km3DwSnwkUZkxxwEnsig9XvvZmZuyyrr/view?usp=sharing)
+### [Klik Download](https://netbeans.apache.org/download/nb120/nb120.html)
 ----------------------------------
